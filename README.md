@@ -11,13 +11,19 @@ Jointly Developed a set of Network Standard Operating Procedures best practices 
 
 ## Details
 
-Switch Routing Example Page
+As chief engineer on a large infrastructure deployment program for a client, I was tasked with developing a set of Network Standard Operating Procedures (SOPs) for the client's network operations team. The SOPs were to be used as a reference guide for the client's network operations teams to follow when managing the network infrastructure. I worked with the vendor SMEs to develop best practice task lists for each of the vendor hardware and software components. Apropriate command line interactions were included as code snippets and image captures of corresponding terminal outputs were also added. We generated daily, weekly, and monthly checklists that referenced specific tasks in the overall vendor task lists. I converted into a `mkdocs` site for easy access and reference.
+
+### Switch Routing Example Page
+
+This is an example of a page for the ALE switches specific to ARP tables.
 
 <div style="text-align: center;">
     <img src="./images/alcatel-lucent.png" alt="Alcatel Lucent" width="500" onclick="openModal('./images/alcatel-lucent.png')" style="cursor: pointer;"/>
 </div>
 
-Firewall Security Example Page
+### Firewall Security Example Page
+
+This is an example of a page for the PAN firewalls checking an aspect of the environmental status of a firewall.
 
 <div style="text-align: center;">
     <img src="./images/palo-alto.png" alt="Palo Alto" width="500" onclick="openModal('./images/palo-alto.png')" style="cursor: pointer;"/>
