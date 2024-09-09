@@ -6,17 +6,21 @@ Jointly Developed a set of Network Standard Operating Procedures best practices 
 
 ## Exhibited Skills
 
-Network expertise in switching, routing. security, and wireless networking.
-Documentation and technical writing skills.
-Collaboration and teamwork.
-Coding knowledge of `mkdocs` document generation, and `markdown`.
+- Network expertise in switching, routing. security, and wireless networking.
+- Documentation and technical writing skills.
+- Collaboration and teamwork.
+- Coding knowledge of `mkdocs` document generation, and `markdown`.
 
 ## Details
 
 Switch Routing Example Page
 
-![Alcatel Lucent]('./images/alcatel-lucent.png')
+<div style="text-align: center;">
+<img src="./images/alcatel-lucent.png" alt="Alcatel Lucent" width="500"/>
+</div>
 
 Firewall Security Example Page
 
-![Palo Alto]('./images/palo-alto.png')
+<div style="text-align: center;">
+<img src="./images/palo-alto.png" alt="Palo Alto" width="500"/>
+</div>
