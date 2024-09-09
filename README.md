@@ -1,5 +1,3 @@
-# Network Standard Operating Procedures - Best Practices
-
 ## Overview
 
 Jointly Developed a set of Network Standard Operating Procedures best practices for a client's network operations. This encompassed Alcatel Lucent Enterprise (ALE) switches and routers, Palo Alto Network (PAN) firewalls, Hewlett Packard Enterprice (HPE) Aruba Wireless Networks equipment, and Statseeker network monitoring software.
@@ -16,13 +14,13 @@ Jointly Developed a set of Network Standard Operating Procedures best practices 
 Switch Routing Example Page
 
 <div style="text-align: center;">
-    <img src="./images/alcatel-lucent.png" alt="Alcatel Lucent" width="500" onclick="openModal('./images/alcatel-lucent.png')"/>
+    <img src="./images/alcatel-lucent.png" alt="Alcatel Lucent" width="500" onclick="openModal('./images/alcatel-lucent.png')" style="cursor: pointer;"/>
 </div>
 
 Firewall Security Example Page
 
 <div style="text-align: center;">
-    <img src="./images/palo-alto.png" alt="Palo Alto" width="500" onclick="openModal('./images/palo-alto.png')"/>
+    <img src="./images/palo-alto.png" alt="Palo Alto" width="500" onclick="openModal('./images/palo-alto.png')" style="cursor: pointer;"/>
 </div>
 
 <!-- Modal Structure -->
